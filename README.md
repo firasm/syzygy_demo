@@ -1,2 +1,1 @@
-# syzygy_demo
-Demo of syzygy using nbgitpuller
+# [Click here](https://ubc.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/firasm/syzygy_demo&urlpath=tree/syzygy_demo/SampleLecture.ipynb&branch=master) to follow the lecture notes and code along!
